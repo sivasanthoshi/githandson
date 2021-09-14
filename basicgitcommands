@@ -5,3 +5,4 @@ git push
 git config
 git merge
 git branch
+git rebase
